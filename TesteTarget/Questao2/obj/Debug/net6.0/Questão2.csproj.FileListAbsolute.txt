@@ -1,0 +1,15 @@
+C:\Users\Jonathan\Desktop\TesteTarget\Questão2\obj\Debug\net6.0\Questão2.csproj.AssemblyReference.cache
+C:\Users\Jonathan\Desktop\TesteTarget\Questão2\obj\Debug\net6.0\Questão2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jonathan\Desktop\TesteTarget\Questão2\obj\Debug\net6.0\Questão2.AssemblyInfoInputs.cache
+C:\Users\Jonathan\Desktop\TesteTarget\Questão2\obj\Debug\net6.0\Questão2.AssemblyInfo.cs
+C:\Users\Jonathan\Desktop\TesteTarget\Questão2\obj\Debug\net6.0\Questão2.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan\Desktop\TesteTarget\Questão2\bin\Debug\net6.0\Questão2.exe
+C:\Users\Jonathan\Desktop\TesteTarget\Questão2\bin\Debug\net6.0\Questão2.deps.json
+C:\Users\Jonathan\Desktop\TesteTarget\Questão2\bin\Debug\net6.0\Questão2.runtimeconfig.json
+C:\Users\Jonathan\Desktop\TesteTarget\Questão2\bin\Debug\net6.0\Questão2.dll
+C:\Users\Jonathan\Desktop\TesteTarget\Questão2\bin\Debug\net6.0\Questão2.pdb
+C:\Users\Jonathan\Desktop\TesteTarget\Questão2\obj\Debug\net6.0\Questão2.dll
+C:\Users\Jonathan\Desktop\TesteTarget\Questão2\obj\Debug\net6.0\refint\Questão2.dll
+C:\Users\Jonathan\Desktop\TesteTarget\Questão2\obj\Debug\net6.0\Questão2.pdb
+C:\Users\Jonathan\Desktop\TesteTarget\Questão2\obj\Debug\net6.0\Questão2.genruntimeconfig.cache
+C:\Users\Jonathan\Desktop\TesteTarget\Questão2\obj\Debug\net6.0\ref\Questão2.dll
